@@ -10,7 +10,7 @@ Increase your page views using this bot
   </p>
   
 <h1>Notice</h1><h4 style ="color:red">
-  <li>This Tool only test in Windows 10 Computer that installed Chrome Browser </li>
+  <li>This Tool only test on Windows 10 Computer that installed Chrome Browser </li>
   </h4>
   
   
